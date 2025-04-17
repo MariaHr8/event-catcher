@@ -1,0 +1,10 @@
+{
+    "name": "Event Catcher Extension",
+    "description": "Base Level Extension",
+    "version": "1.0",
+    "manifest_version": 1,
+    "action": {
+      "default_popup": "event-catcher.html",
+      "default_icon": "icon.png"
+    }
+  }
